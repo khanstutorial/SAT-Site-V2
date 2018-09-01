@@ -7,6 +7,11 @@
 	License: pixelarity.com/license
 */
 
+.carouselText {
+	width: 50%;
+	margin: 1em auto;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2936,7 +2941,6 @@ input, select, textarea {
 
 			.carousel article .image {
 				border-radius: 0;
-				height: 17em;
 				width: 100%;
 			}
 
@@ -3046,7 +3050,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.carousel article .content {
-				padding: 4em 4em 2em 4em ;
+				padding: 2.5em 4em 2em 4em ;
 			}
 
 		}
