@@ -3242,7 +3242,7 @@ input, select, textarea {
 		}
 
 			.wrapper > .inner > .main {
-				padding: 6em 6em 4em 6em ;
+				padding: 3em 6em 2em 6em ;
 				background-color: #ffffff;
 			}
 
@@ -4281,7 +4281,7 @@ input, select, textarea {
 				@media screen and (max-width: 1680px) {
 
 					.wrapper > .inner > .main {
-						padding: 5em 5em 3em 5em ;
+						padding: 3em 5em 2em 5em ;
 					}
 
 				}
