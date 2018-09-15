@@ -2488,6 +2488,7 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
+				image-orientation: from-image;
 			}
 
 		.image.main {
