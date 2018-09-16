@@ -4432,7 +4432,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#header {
-				margin: 0 0 2em 0;
+				margin: 0 0 1em 0;
 			}
 
 				#header > .logo span {
@@ -5546,7 +5546,7 @@ body.is-preload #content > .slider {
 			}
 
 			#page-wrapper > :first-child {
-				padding-top: 2em;
+				padding-top: 1.35em;
 			}
 
 			#page-wrapper > :last-child {
