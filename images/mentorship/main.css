@@ -3876,7 +3876,7 @@ input, select, textarea {
 					.wrapper > .inner > .main.accent3 select,
 					.wrapper > .inner > .main.accent3 textarea {
 						background-color: rgba(255, 255, 255, 0.05);
-						border-color: rgba(255, 255, 255, 0.25);
+						border-color: rgba(255, 255, 255, 0.25); 
 					}
 
 						.wrapper > .inner > .main.accent3 input[type="text"]:focus,
@@ -4334,7 +4334,7 @@ input, select, textarea {
 		color: #ffffff;
 		cursor: default;
 		line-height: 1.5;
-		margin: 0 0 1.4em 0;
+		margin: 0 0 3em 0;
 		position: relative;
 	}
 
@@ -5530,7 +5530,7 @@ body.is-preload #content > .slider {
 		}
 
 		#page-wrapper > :first-child {
-			padding-top: 2em;
+			padding-top: 4em;
 			overflow: hidden;
 		}
 
