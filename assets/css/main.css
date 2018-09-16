@@ -1906,7 +1906,7 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 1px rgba(67, 75, 86, 0.25);
+		/* box-shadow: inset 0 0 0 1px rgba(67, 75, 86, 0.25); */
 		color: #434b56 !important;
 	}
 
@@ -3876,7 +3876,7 @@ input, select, textarea {
 					.wrapper > .inner > .main.accent3 select,
 					.wrapper > .inner > .main.accent3 textarea {
 						background-color: rgba(255, 255, 255, 0.05);
-						border-color: rgba(255, 255, 255, 0.25); 
+						border-color: rgba(255, 255, 255, 0.25);
 					}
 
 						.wrapper > .inner > .main.accent3 input[type="text"]:focus,
