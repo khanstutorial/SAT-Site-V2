@@ -12,13 +12,17 @@ img.resize {
   max-width:70%;
 }
 
+#navButton{
+  position: absolute;
+  bottom: 2em;
+  color: #4A74C9 !important;
+}
+
 .carouselText {
 	width: 50%;
 	margin: 1em auto;
 }
 
-<<<<<<< HEAD
-=======
 .halloffame p {
   color: #434b56;
   font-size: 20px;
@@ -41,7 +45,6 @@ img.resize {
   height: 100%;
 }
 
->>>>>>> 39db2b9a0777b959e24e0631ce4c565e14103406
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -4585,7 +4588,7 @@ input, select, textarea {
 		#menu button,
 		#menu .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25);
+			box-shadow: inset 0 0 0 1px #ffffff;
 			color: #ffffff !important;
 		}
 
