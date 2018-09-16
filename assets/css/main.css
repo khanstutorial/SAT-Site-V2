@@ -7,6 +7,11 @@
 	License: pixelarity.com/license
 */
 
+/* CAROUSAL IMAGE RESIZE CLASS */
+img.resize {
+  max-width:70%;
+}
+
 .carouselText {
 	width: 50%;
 	margin: 1em auto;
