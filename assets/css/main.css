@@ -17,6 +17,31 @@ img.resize {
 	margin: 1em auto;
 }
 
+<<<<<<< HEAD
+=======
+.halloffame p {
+  color: #434b56;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.mentorshipHeader h1,
+.mentorshipHeader p {
+  width: 70%;
+}
+
+.buttonWrapper{
+  width: 50%;
+  height: 4.5em;
+  margin: 0 auto;
+}
+
+.emphasize {
+  width: 100%;
+  height: 100%;
+}
+
+>>>>>>> 39db2b9a0777b959e24e0631ce4c565e14103406
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
